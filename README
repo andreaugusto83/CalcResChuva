@@ -1,0 +1,21 @@
+Este projeto consiste na implementação de um software interativo, produzido na linguagem de programação JAVA,
+que faça o dimensionamento do volume de reservatório para armazenamento da água da chuva.
+Para realizar esse cálculo, seis métodos propostos pela Norma Brasileira ABNT NBR 15527:2007
+foram utilizados na produção do programa. Esses métodos consistem em fórmulas dependentes basicamente do índice pluviométrico e da demanda de água de chuva em uma edificação.
+A utilização deste software contribui para agilizar o desenvolvimento de projetos de sistema de captação de água de chuva, visto que o cálculo do volume do reservatório, a partir dos métodos sugeridos na norma brasileira, é bastante complexo.
+Aliado a isso, os resultados obtidos pelos seis métodos são discrepantes entre si, mas com a utilização deste software os valores são obtidos simultaneamente facilitando a decisão final sobre qual método é o mais indicado para o projeto em questão, que poderá ser baseada na comparação dos volumes obtidos, e na viabilidade em termos de área disponível e custo de construção do reservatório.
+
+
+O software foi implementado por:
+
+André Augusto Dequech Carvalho
+Felipe Augusto Zborowski
+Vinicius Placeres Vanderley
+
+
+Orientado por:
+
+Prof. Stella Maris da Cruz Bezerra 
+
+Prof. Adolfo Gustavo Serra Seca Neto
+
