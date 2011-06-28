@@ -1,14 +1,14 @@
-Este projeto consiste na implementaÁ„o de um software interativo, produzido na linguagem de programaÁ„o JAVA,
-que faÁa o dimensionamento do volume de reservatÛrio para armazenamento da ·gua da chuva.
-Para realizar esse c·lculo, seis mÈtodos propostos pela Norma Brasileira ABNT NBR 15527:2007
-foram utilizados na produÁ„o do programa. Esses mÈtodos consistem em fÛrmulas dependentes basicamente do Ìndice pluviomÈtrico e da demanda de ·gua de chuva em uma edificaÁ„o.
-A utilizaÁ„o deste software contribui para agilizar o desenvolvimento de projetos de sistema de captaÁ„o de ·gua de chuva, visto que o c·lculo do volume do reservatÛrio, a partir dos mÈtodos sugeridos na norma brasileira, È bastante complexo.
-Aliado a isso, os resultados obtidos pelos seis mÈtodos s„o discrepantes entre si, mas com a utilizaÁ„o deste software os valores s„o obtidos simultaneamente facilitando a decis„o final sobre qual mÈtodo È o mais indicado para o projeto em quest„o, que poder· ser baseada na comparaÁ„o dos volumes obtidos, e na viabilidade em termos de ·rea disponÌvel e custo de construÁ„o do reservatÛrio.
+ÔªøEste projeto consiste na implementa√ß√£o de um software interativo, produzido na linguagem de programa√ß√£o JAVA,
+que fa√ßa o dimensionamento do volume de reservat√≥rio para armazenamento da √°gua da chuva.
+Para realizar esse c√°lculo, seis m√©todos propostos pela Norma Brasileira ABNT NBR 15527:2007
+foram utilizados na produ√ß√£o do programa. Esses m√©todos consistem em f√≥rmulas dependentes basicamente do √≠ndice pluviom√©trico e da demanda de √°gua de chuva em uma edifica√ß√£o.
+A utiliza√ß√£o deste software contribui para agilizar o desenvolvimento de projetos de sistema de capta√ß√£o de √°gua de chuva, visto que o c√°lculo do volume do reservat√≥rio, a partir dos m√©todos sugeridos na norma brasileira, √© bastante complexo.
+Aliado a isso, os resultados obtidos pelos seis m√©todos s√£o discrepantes entre si, mas com a utiliza√ß√£o deste software os valores s√£o obtidos simultaneamente facilitando a decis√£o final sobre qual m√©todo √© o mais indicado para o projeto em quest√£o, que poder√° ser baseada na compara√ß√£o dos volumes obtidos, e na viabilidade em termos de √°rea dispon√≠vel e custo de constru√ß√£o do reservat√≥rio.
 
 
 O software foi implementado por:
 
-AndrÈ Augusto Dequech Carvalho
+Andr√© Augusto Dequech Carvalho
 Felipe Augusto Zborowski
 Vinicius Placeres Vanderley
 
